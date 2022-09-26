@@ -17,7 +17,7 @@ This is my personal website homepage, also a project for my cs5610 class. In thi
 HTML/CSS, JavaScript, Bootstrap
 
 ### Presentation
-[Video Presentation]()  
+[Video Presentation](https://www.youtube.com/watch?v=pfqrOglsR2M&t=9s&ab_channel=SusieXu)  
 [Slides]()
 
 ### Intro to Install/ Run
