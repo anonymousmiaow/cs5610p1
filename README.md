@@ -12,7 +12,6 @@ This is my personal website homepage, also a project for my cs5610 class. In thi
 
 ### Screenshot
 <img width="1430" alt="HomePage Screenshot" src="https://user-images.githubusercontent.com/44392165/192202274-63a7f186-5826-4152-9340-cd87824b79e3.png">
-g/cs5610p1screenshot.png">
 
 ### Tech Requirements
 HTML/CSS, JavaScript, Bootstrap
