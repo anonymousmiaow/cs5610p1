@@ -24,3 +24,6 @@ HTML/CSS, JavaScript, Bootstrap
 In order to run it, you may access it directly by https://anonymousmiaow.github.io/cs5610p1/.
 
 ### Release
+
+### Design doc
+[Personal Home Design Doc](https://github.com/anonymousmiaow/cs5610p1/files/9648722/Personal.Home.Design.Doc.pdf)
