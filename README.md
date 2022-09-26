@@ -18,7 +18,7 @@ HTML/CSS, JavaScript, Bootstrap
 
 ### Presentation
 [Video Presentation](https://www.youtube.com/watch?v=pfqrOglsR2M&t=9s&ab_channel=SusieXu)  
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1sDRqdY6ifUkj93_Ze7Yav5F-bs8pQy7YlWuFYOJwZHM/edit?usp=sharing)
 
 ### Intro to Install/ Run
 In order to run it, you may access it directly by https://anonymousmiaow.github.io/cs5610p1/.
