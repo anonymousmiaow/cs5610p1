@@ -4,6 +4,7 @@
  * Author: BootstrapMade.com
  * License: https://bootstrapmade.com/license/
  */
+<!-- Nice template, trying to find which part is the 5-lines JS code written by you and give comments🤔-->
 (function () {
   "use strict";
 
